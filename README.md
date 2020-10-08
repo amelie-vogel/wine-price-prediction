@@ -1,6 +1,6 @@
 #  Prediction of French Wine Prices
 
-## Dataset 
+# Dataset 
 
 ### Description 
 The dataset comes from the scraping of websites dedicated to wine.
@@ -16,7 +16,7 @@ I used the feature *median_price* as a label for my predictive model, since I wa
 The whole dataset is the private property of Eldiias, but you can find a pickel file named *wine_dataset_sql*.
 
 
-## Cleaning The data
+# Cleaning The data
 
 Cleaning the data was an important part of the project, as the database came from webscraping. 
 
